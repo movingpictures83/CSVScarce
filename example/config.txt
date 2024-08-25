@@ -1,0 +1,3 @@
+Prefix plugins/CSVScarce/example/
+#Plugin CSVTranspose inputfile asv.tab.csv outputfile asv.tab.transpose.csv
+Plugin CSVScarce inputfile parameters.txt outputfile output.tab.csv
